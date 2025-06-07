@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ViliHun609)
+
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ViliHun609)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
