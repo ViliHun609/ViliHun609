@@ -31,6 +31,7 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_SHORT_INFO: "True"
           SHOW_LINES_OF_CODE: "True"
+          SHOW_LOC_CHART: "False"
           
           # Formatting options
           SHOW_UPDATED_DATE: "True"
