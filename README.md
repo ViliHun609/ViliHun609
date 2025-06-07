@@ -5,6 +5,8 @@
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ViliHun609)](https://github.com/anuraghazra/github-readme-stats)
 
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C438%20hrs%2054%20mins-blue)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
