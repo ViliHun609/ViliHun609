@@ -11,7 +11,7 @@
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ViliHun609)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+</div>
 
 
 <!--START_SECTION:waka-->
@@ -102,4 +102,4 @@ Here are some ideas to get you started:
 
 
 
-</div>
+
