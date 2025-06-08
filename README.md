@@ -5,7 +5,7 @@
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ViliHun609)](https://github.com/anuraghazra/github-readme-stats)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ViliHun609&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ViliHun609&show_icons=true&theme=dark)
 
 
 <!--START_SECTION:waka-->
