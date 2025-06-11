@@ -6,7 +6,7 @@
 ## 📊 My GitHub Stats
 <div align="center">
 
-![Metrics](https://metrics.lecoq.io/ViliHun609?template=classic&repositories.forks=true&isocalendar=1&lines=1&stargazers=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=1&lines.history.limit=1&lines.delay=0&config.timezone=Europe%2FBudapest)
+![Metrics](https://metrics.lecoq.io/ViliHun609?template=terminal&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=5&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FBudapest)
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViliHun609&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)
 
