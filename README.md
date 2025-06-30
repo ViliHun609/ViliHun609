@@ -22,13 +22,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 3.8 kB Used in GitHub's Storage 
+> 📦 2.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 193 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,15 +65,13 @@ Sunday                   35 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-HTML                     6 mins              █████████████░░░░░░░░░░░░   52.95 % 
-CSS                      4 mins              █████████░░░░░░░░░░░░░░░░   36.05 % 
-GitIgnore file           1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -85,7 +85,7 @@ CSS                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 29/06/2025 18:47:43 UTC
+ Last Updated on 30/06/2025 18:50:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
